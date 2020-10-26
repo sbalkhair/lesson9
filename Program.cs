@@ -8,7 +8,7 @@ namespace lesson9
         public static void Main(string[] args)
         {
 
-            // DateTime date = new DateTime();
+            //DateTime date = new DateTime();
             //var date = new DateTime(2020, 10, 26, 8, 30, 00);
 
             //var date = DateTime.Now;
@@ -96,7 +96,6 @@ namespace lesson9
             //Console.WriteLine(price.ToString("C"));
             //Console.WriteLine(price.ToString("C4"));
             //Console.ReadKey();
-
 
             //var bulider = new StringBuilder();
             //bulider.Append('-', 50);
